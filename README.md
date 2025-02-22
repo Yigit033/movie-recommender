@@ -11,9 +11,14 @@ This project is a movie recommendation system that provides users with personali
 ## Tech Stack
 
 - **Python**: The main programming language for the project.
-- **Pandas**: Used for data analysis.
-- **Scikit-learn**: Utilized for machine learning algorithms.
-- **Flask**: Used for developing the web application.
+- **Pandas**: Used for data manipulation and analysis.
+- **NumPy**: Utilized for numerical operations.
+- **Matplotlib**: For data visualization.
+- **Seaborn**: Provides a high-level interface for drawing attractive statistical graphics.
+- **AST**: Used for safely evaluating string expressions.
+- **Warnings**: To manage warning messages during execution.
+- **Scikit-learn**: For machine learning model selection and evaluation (e.g., `train_test_split`).
+- **TensorFlow**: Used for building and training deep learning models.
 
 ## Installation
 
